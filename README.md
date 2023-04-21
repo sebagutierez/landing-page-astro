@@ -2,9 +2,9 @@
 
 Website with Dropdown Menus | Astro.js - React.js - TailwindCSS - HeadlessUI
 
-Based on challenge from: https://www.frontendmentor.io/challenges
+![dropdown website image](https://res.cloudinary.com/dz209s6jk/image/upload/f_auto,q_auto,w_700/Challenges/x35fo4g0mcmxbl9ht02l.jpg)
 
-![dropdown menu website](/images/dropdown-menu-website.jpg)
+Based on challenge from: https://www.frontendmentor.io/challenges
 
 All commands are run from the root of the project, from a terminal:
 
@@ -18,4 +18,3 @@ All commands are run from the root of the project, from a terminal:
 | `npm run astro --help` | Get help using the Astro CLI                       |
 
 Based on: https://github.com/gigo6000/astro-landing-page
-
