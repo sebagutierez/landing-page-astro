@@ -1,6 +1,6 @@
 # landing-page-astro
 
-Website with Dropdown Menus | Astro.js - React.js - TailwindCSS
+Website with Dropdown Menus | Astro.js - React.js - TailwindCSS - HeadlessUI
 
 Based on challenge from: https://www.frontendmentor.io/challenges
 
