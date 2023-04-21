@@ -6,7 +6,7 @@ const NavMenu = () => {
       <ul className="hidden lg:flex lg:space-x-7 lg:ml-14">
         <li>
           <Menu>
-            <Menu.Button>
+            <Menu.Button className="cursor-pointer hover:text-almost-black">
               Features{" "}
               <img
                 src="images/icon-arrow-down.svg"
@@ -98,7 +98,7 @@ const NavMenu = () => {
 
         <li>
           <Menu>
-            <Menu.Button>
+            <Menu.Button className="cursor-pointer hover:text-almost-black">
               Company{" "}
               <img
                 src="images/icon-arrow-down.svg"
