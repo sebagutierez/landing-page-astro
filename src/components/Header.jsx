@@ -1,3 +1,5 @@
+import NavMenu from "./NavMenu"
+
 const Header = () => {
   return (
     <header>
@@ -5,7 +7,9 @@ const Header = () => {
         <div className="flex items-center pt-3">
           <img src="images/logo.svg" alt="snap logo" />
         </div>
-        <div className="flex-grow flex items-center z-20">NavMenu</div>
+        <div className="flex-grow flex items-center z-20">
+          <NavMenu />
+        </div>
         <div className="flex items-center">
           <a href="#">
             <img
