@@ -1,3 +1,3 @@
 # landing-page-astro
 
-Website with Dropdown Menus | Astro.js - React.js
+Website with Dropdown Menus | Astro.js - React.js - TailwindCSS
