@@ -2,7 +2,7 @@
 
 Website with Dropdown Menus | Astro.js - React.js - TailwindCSS
 
-Based on: https://www.frontendmentor.io/challenges
+Based on challenge from: https://www.frontendmentor.io/challenges
 
 All commands are run from the root of the project, from a terminal:
 
@@ -15,4 +15,4 @@ All commands are run from the root of the project, from a terminal:
 | `npm run astro ...`    | Run CLI commands like `astro add`, `astro preview` |
 | `npm run astro --help` | Get help using the Astro CLI                       |
 
-Created by: https://github.com/gigo6000/astro-landing-page
+Based on: https://github.com/gigo6000/astro-landing-page
