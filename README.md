@@ -2,7 +2,7 @@
 
 Website with Dropdown Menus | Astro.js - React.js - TailwindCSS
 
-https://www.frontendmentor.io/challenges
+Based on: https://www.frontendmentor.io/challenges
 
 All commands are run from the root of the project, from a terminal:
 
