@@ -1,6 +1,7 @@
 # landing-page-astro
 
-## Website with Dropdown Menus | Includes: Astro.js, React.js, TailwindCSS & HeadlessUI
+## Website with Dropdown Menus 
+## Includes: Astro.js, React.js, TailwindCSS & HeadlessUI
 
 ![dropdown website image](https://res.cloudinary.com/dz209s6jk/image/upload/f_auto,q_auto,w_700/Challenges/x35fo4g0mcmxbl9ht02l.jpg)
 
